@@ -1,0 +1,10 @@
+c:\users\garya\documents\visual studio 2015\Projects\ProyectoDiscretaGrafos\ProyectoDiscretaGrafos\bin\Debug\ProyectoDiscretaGrafos.exe.config
+C:\Users\garya\Documents\Visual Studio 2015\Projects\ProyectoDiscretaGrafos\ProyectoDiscretaGrafos\bin\Debug\ProyectoDiscretaGrafos.exe
+C:\Users\garya\Documents\Visual Studio 2015\Projects\ProyectoDiscretaGrafos\ProyectoDiscretaGrafos\bin\Debug\ProyectoDiscretaGrafos.pdb
+C:\Users\garya\Documents\Visual Studio 2015\Projects\ProyectoDiscretaGrafos\ProyectoDiscretaGrafos\obj\Debug\ProyectoDiscretaGrafos.csprojResolveAssemblyReference.cache
+C:\Users\garya\Documents\Visual Studio 2015\Projects\ProyectoDiscretaGrafos\ProyectoDiscretaGrafos\obj\Debug\ProyectoDiscretaGrafos.Form1.resources
+C:\Users\garya\Documents\Visual Studio 2015\Projects\ProyectoDiscretaGrafos\ProyectoDiscretaGrafos\obj\Debug\ProyectoDiscretaGrafos.Properties.Resources.resources
+C:\Users\garya\Documents\Visual Studio 2015\Projects\ProyectoDiscretaGrafos\ProyectoDiscretaGrafos\obj\Debug\ProyectoDiscretaGrafos.csproj.GenerateResource.Cache
+C:\Users\garya\Documents\Visual Studio 2015\Projects\ProyectoDiscretaGrafos\ProyectoDiscretaGrafos\obj\Debug\ProyectoDiscretaGrafos.exe
+C:\Users\garya\Documents\Visual Studio 2015\Projects\ProyectoDiscretaGrafos\ProyectoDiscretaGrafos\obj\Debug\ProyectoDiscretaGrafos.pdb
+C:\Users\garya\Documents\Visual Studio 2015\Projects\ProyectoDiscretaGrafos\ProyectoDiscretaGrafos\obj\Debug\ProyectoDiscretaGrafos.AlgoritmoDijkstra.resources
